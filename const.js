@@ -10,6 +10,7 @@ const object = {
 /language — Вибір мови
 /leaderboard — Дошка лідерів
 /settings — Налаштування
+/games — Ігри
         `,
         'EN':
             `
@@ -19,6 +20,7 @@ const object = {
 /language — Select a language
 /leaderboard — Leaderboard
 /settings — Settings
+/games — Games
         `
     },
     current_lang: {
